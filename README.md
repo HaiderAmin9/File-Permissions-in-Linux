@@ -1,4 +1,4 @@
-# File Permissions in Linux
+# Linux File Ownership and Permissions
 
 ## Scenario
 In this project i am  a security professional at a large organization, working with the research team to ensure users have appropriate permissions. My task is to examine existing permissions on the file system, determine if they match the required authorization, and modify them if necessary. This task is part of my Google Cybersecurity Certification, focusing on using Linux commands to manage file permissions.
